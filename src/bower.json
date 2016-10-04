@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "description": "Web Application for IoT capstone",
+  "main": "index.js",
+  "authors": [
+    "Jason Walker <jwalker14@me.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jwalker14/Senior-Capstone-Automata-Cloud-Processor",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "foundation-sites": "^6.2.3",
+    "requirejs": "^2.3.2"
+  }
+}
